@@ -13,8 +13,8 @@ A function which returns the analytical expected number of hires, given the numb
 - The x-axis shows the total number of applicants (make sure label the x-axis)
 - The y-axis shows the average number of hires (make sure label the y-axis)
 - The graph contains two curves;
--- Curve 1: the theoretical performance estimates computed calls to the function analytical_hires.
--- Curve 2: the simulated or experimental estimates using the function you created in question 2.
+- - Curve 1: the theoretical performance estimates computed calls to the function analytical_hires.
+- - Curve 2: the simulated or experimental estimates using the function you created in question 2.
 
 ## optimal_stopping()
 an optimal stopping rule, ie. at what point should one stop requesting new potential hires from the agency?
